@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+raw_proxies.txt
+live_proxies.txt
+proxies.txt
+list.txt
+*.log
+.vscode/
+.idea/
